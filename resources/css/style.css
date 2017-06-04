@@ -1,0 +1,39 @@
+html {
+  font-family: Helvetica;
+    text-align: center;
+}
+
+.title {
+  background-image: url(file:///c:/cygwin64/home/adminfjf/broadway/resources/images/the-flatiron-building.png);
+  color: white;
+}
+
+.link-nav {
+  font-size: 18px;
+  color: white;
+}
+
+.footer {
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
+}
+
+.process {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.process-item h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.process-item p {
+  font-size: 14px;
+}
+
+.title h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
